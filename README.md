@@ -1,6 +1,8 @@
 # SystemHub
 A simple system hub for older laptops.
 
+*Note: Some files may say Turn Off Computer.*, this was the original name for the code.*
+
 # Install/Build
 ![SystemHub](/systemhub.png)
 
