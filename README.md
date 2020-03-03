@@ -13,5 +13,10 @@ This is *Does Not* install to your computer and if you delete it, there is no ot
 There is no way to actually *install* the program on your computer.
 A installer may come in the future.
 
+# Contributing
+
+If you have downloaded the master file and have started editing, before you make a commit look in the Turn Off System.vb or other simaler file and sign you name on the plain text at the 'Contributers' Button.
+Then Commit your changes, and in future releases your code will be featured.
+
 # Links
 Nothing to see here!
