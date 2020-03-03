@@ -1,0 +1,11 @@
+C:\Users\ephra\source\repos\Turn Off computer\Turn Off computer\bin\Debug\Turn Off computer.exe.config
+C:\Users\ephra\source\repos\Turn Off computer\Turn Off computer\bin\Debug\Turn Off computer.exe
+C:\Users\ephra\source\repos\Turn Off computer\Turn Off computer\bin\Debug\Turn Off computer.pdb
+C:\Users\ephra\source\repos\Turn Off computer\Turn Off computer\bin\Debug\Turn Off computer.xml
+C:\Users\ephra\source\repos\Turn Off computer\Turn Off computer\obj\Debug\Turn Off computer.vbprojAssemblyReference.cache
+C:\Users\ephra\source\repos\Turn Off computer\Turn Off computer\obj\Debug\Turn_Off_computer.Form1.resources
+C:\Users\ephra\source\repos\Turn Off computer\Turn Off computer\obj\Debug\Turn_Off_computer.Resources.resources
+C:\Users\ephra\source\repos\Turn Off computer\Turn Off computer\obj\Debug\Turn Off computer.vbproj.GenerateResource.cache
+C:\Users\ephra\source\repos\Turn Off computer\Turn Off computer\obj\Debug\Turn Off computer.exe
+C:\Users\ephra\source\repos\Turn Off computer\Turn Off computer\obj\Debug\Turn Off computer.xml
+C:\Users\ephra\source\repos\Turn Off computer\Turn Off computer\obj\Debug\Turn Off computer.pdb
